@@ -1,0 +1,6 @@
+c:\users\gerbo67\documents\visual studio 2015\Projects\HanoiProgra\HanoiProgra\bin\Debug\HanoiProgra.exe.config
+c:\users\gerbo67\documents\visual studio 2015\Projects\HanoiProgra\HanoiProgra\obj\Debug\HanoiProgra.csprojResolveAssemblyReference.cache
+c:\users\gerbo67\documents\visual studio 2015\Projects\HanoiProgra\HanoiProgra\bin\Debug\HanoiProgra.exe
+c:\users\gerbo67\documents\visual studio 2015\Projects\HanoiProgra\HanoiProgra\bin\Debug\HanoiProgra.pdb
+c:\users\gerbo67\documents\visual studio 2015\Projects\HanoiProgra\HanoiProgra\obj\Debug\HanoiProgra.exe
+c:\users\gerbo67\documents\visual studio 2015\Projects\HanoiProgra\HanoiProgra\obj\Debug\HanoiProgra.pdb
