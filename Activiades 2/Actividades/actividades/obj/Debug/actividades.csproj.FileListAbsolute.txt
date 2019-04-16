@@ -1,0 +1,67 @@
+C:\Users\LAB02-06\Desktop\Ejemplo1\actividades\actividades\bin\Debug\actividades.exe.config
+C:\Users\LAB02-06\Desktop\Ejemplo1\actividades\actividades\obj\Debug\actividades.csprojResolveAssemblyReference.cache
+C:\Users\LAB02-06\Desktop\Ejemplo1\actividades\actividades\obj\Debug\actividades.FormEstudiante.resources
+C:\Users\LAB02-06\Desktop\Ejemplo1\actividades\actividades\obj\Debug\actividades.Properties.Resources.resources
+C:\Users\LAB02-06\Desktop\Ejemplo1\actividades\actividades\obj\Debug\actividades.csproj.GenerateResource.Cache
+C:\Users\LAB02-06\Desktop\Ejemplo1\actividades\actividades\bin\Debug\actividades.exe
+C:\Users\LAB02-06\Desktop\Ejemplo1\actividades\actividades\bin\Debug\actividades.pdb
+C:\Users\LAB02-06\Desktop\Ejemplo1\actividades\actividades\obj\Debug\actividades.exe
+C:\Users\LAB02-06\Desktop\Ejemplo1\actividades\actividades\obj\Debug\actividades.pdb
+C:\Users\LAB02-06\Desktop\Ejemplo1\actividades\actividades\obj\Debug\actividades.Form2.resources
+F:\Ejemplo1\actividades\actividades\bin\Debug\actividades.exe.config
+F:\Ejemplo1\actividades\actividades\obj\Debug\actividades.exe
+F:\Ejemplo1\actividades\actividades\obj\Debug\actividades.pdb
+F:\Ejemplo1\actividades\actividades\bin\Debug\actividades.exe
+F:\Ejemplo1\actividades\actividades\bin\Debug\actividades.pdb
+F:\Ejemplo1\actividades\actividades\obj\Debug\actividades.csprojResolveAssemblyReference.cache
+F:\Ejemplo1\actividades\actividades\obj\Debug\actividades.FormEstudiante.resources
+F:\Ejemplo1\actividades\actividades\obj\Debug\actividades.Form2.resources
+F:\Ejemplo1\actividades\actividades\obj\Debug\actividades.Properties.Resources.resources
+F:\Ejemplo1\actividades\actividades\obj\Debug\actividades.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\actividades\actividades\bin\Debug\actividades.exe.config
+C:\Users\Samsung\Desktop\actividades\actividades\obj\Debug\actividades.exe
+C:\Users\Samsung\Desktop\actividades\actividades\obj\Debug\actividades.pdb
+C:\Users\Samsung\Desktop\actividades\actividades\bin\Debug\actividades.exe
+C:\Users\Samsung\Desktop\actividades\actividades\bin\Debug\actividades.pdb
+C:\Users\Samsung\Desktop\actividades\actividades\obj\Debug\actividades.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\actividades\actividades\obj\Debug\actividades.FormEstudiante.resources
+C:\Users\Samsung\Desktop\actividades\actividades\obj\Debug\actividades.Form2.resources
+C:\Users\Samsung\Desktop\actividades\actividades\obj\Debug\actividades.Properties.Resources.resources
+C:\Users\Samsung\Desktop\actividades\actividades\obj\Debug\actividades.csproj.GenerateResource.Cache
+D:\actividades\actividades\bin\Debug\actividades.exe.config
+D:\actividades\actividades\obj\Debug\actividades.exe
+D:\actividades\actividades\obj\Debug\actividades.pdb
+D:\actividades\actividades\bin\Debug\actividades.exe
+D:\actividades\actividades\bin\Debug\actividades.pdb
+D:\actividades\actividades\obj\Debug\actividades.csprojResolveAssemblyReference.cache
+D:\actividades\actividades\obj\Debug\actividades.FormEstudiante.resources
+D:\actividades\actividades\obj\Debug\actividades.Form2.resources
+D:\actividades\actividades\obj\Debug\actividades.Properties.Resources.resources
+D:\actividades\actividades\obj\Debug\actividades.Vista.FormaCampeonato.resources
+D:\actividades\actividades\obj\Debug\actividades.csproj.GenerateResource.Cache
+F:\actividades\actividades\bin\Debug\actividades.exe.config
+F:\actividades\actividades\obj\Debug\actividades.exe
+F:\actividades\actividades\obj\Debug\actividades.pdb
+F:\actividades\actividades\bin\Debug\actividades.exe
+F:\actividades\actividades\bin\Debug\actividades.pdb
+F:\actividades\actividades\obj\Debug\actividades.csprojResolveAssemblyReference.cache
+F:\actividades\actividades\obj\Debug\actividades.FormEstudiante.resources
+F:\actividades\actividades\obj\Debug\actividades.Form2.resources
+F:\actividades\actividades\obj\Debug\actividades.Properties.Resources.resources
+F:\actividades\actividades\obj\Debug\actividades.Vista.FormaCampeonato.resources
+F:\actividades\actividades\obj\Debug\actividades.Vista.FormaJornada.resources
+F:\actividades\actividades\obj\Debug\actividades.csproj.GenerateResource.Cache
+D:\actividades\actividades\obj\Debug\actividades.Vista.FormaJornada.resources
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\bin\Debug\actividades.exe.config
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\bin\Debug\actividades.exe
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\bin\Debug\actividades.pdb
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\obj\Debug\actividades.csprojAssemblyReference.cache
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\obj\Debug\actividades.FormEstudiante.resources
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\obj\Debug\actividades.Form2.resources
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\obj\Debug\actividades.Properties.Resources.resources
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\obj\Debug\actividades.Vista.FormaCampeonato.resources
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\obj\Debug\actividades.Vista.FormaJornada.resources
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\obj\Debug\actividades.csproj.GenerateResource.cache
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\obj\Debug\actividades.csproj.CoreCompileInputs.cache
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\obj\Debug\actividades.exe
+C:\Users\ekt de los heroes\Desktop\barron\actividades\actividades\obj\Debug\actividades.pdb
